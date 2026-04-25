@@ -1,4 +1,4 @@
-### Hi, I'm Miggy 👋
+### Hi, I'm MiggyDev 👋
 
 Software engineer. I build games, tools, and small experiments in the open — currently shipping three projects in parallel, each in a different language.
 
